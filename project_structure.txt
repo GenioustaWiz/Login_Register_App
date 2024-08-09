@@ -1,0 +1,25 @@
+npm run dev
+http://localhost:3000/
+
+project-root/
+├── public/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── main.js
+├── views/
+│   ├── index.ejs
+│   ├── login.ejs
+│   └── register.ejs
+├── routes/
+│   ├── auth.js
+│   └── index.js
+├── models/
+│   └── user.js
+├── config/
+│   └── database.js
+├── middleware/
+│   └── auth.js
+├── app.js
+├── package.json
+└── .env

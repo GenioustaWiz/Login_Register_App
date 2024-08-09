@@ -1,0 +1,3 @@
+
+
+npm install bcryptjs dotenv ejs express express-session mysql2 nodemon
